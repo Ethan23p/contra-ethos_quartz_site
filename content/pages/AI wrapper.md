@@ -1,0 +1,2 @@
+- A set of simple programs to query an LLM, made as a study in writing standalone applications manually; first as a command line app, then as a GUI.
+	- Had I gotten around to it, my goal was to make it a trilogy by writing a web UI.

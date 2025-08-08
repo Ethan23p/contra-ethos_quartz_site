@@ -1,0 +1,2 @@
+# Ethan Porter
+- Creative technologist uniting design, philosophy, and coding to create unconventional solutions across software, 3D animation, and games. Driven by efficiency, elegance, and a relentless pursuit of innovation.

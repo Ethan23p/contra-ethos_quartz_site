@@ -1,0 +1,1 @@
+- Rather robust utility script for personal use (publicly available) which downloads the latest documentation and collates the relevant files from the open-source repo into a set of markdown files, perfect for selective inclusion in context for prompting in a modern AI agent workflow.

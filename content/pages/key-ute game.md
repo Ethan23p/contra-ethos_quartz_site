@@ -1,0 +1,3 @@
+- Micro-game written entirely by me in Lua for the Pico-8 fantasy console; ~30s experience of a little sweeper bot speeding through some handmade levels. Made as a Valentine's day gift to my girlfriend.
+- Intended to be a spotless implementation of an entire game with simple but clever code written entirely from first principles as a study into the Pico-8 and game development.
+	- Naturally, I have two versions to show off; a horrific, spaghetti code beta version, made in a month, which I presented to my girlfriend on Valentine's day in 2024 and a well-oiled machine which I developed in my spare time on Valentine's day 2025, one year later.
