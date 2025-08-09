@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "contra-ethos",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,12 +16,12 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "EthanPorter.xyz",
     ignorePatterns: ["private", "templates", ".obsidian", ".logseq/**", "logseq/**"
     ],
     defaultDateType: "modified",
     theme: {
-      fontOrigin: "googleFonts",
+      fontOrigin: "googleFonts", // my ethanporter.xyz project from Adobe: ork4mcz / <link rel="stylesheet" href="https://use.typekit.net/ork4mcz.css">
       cdnCaching: true,
       typography: {
         header: "Schibsted Grotesk",
@@ -41,15 +41,15 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#1F1E1D",
-          lightgray: "#262624",
-          gray: "#BFBDB8",
-          darkgray: "#BFBDB8",
-          dark: "#BFAF80",
-          secondary: "#D97059",
-          tertiary: "#BFAF80",
-          highlight: "rgba(191, 175, 128, 0.15)",
-          textHighlight: "#BFAF8088",
+          light: "#1F1E1D", // page background
+          lightgray: "#262624", // borders
+          gray: "#BFBDB8", // graph links, heavier borders
+          darkgray: "#BFBDB8", // body text
+          dark: "#BFAF80", // header text and icons
+          secondary: "#D97059", // link color, current graph node
+          tertiary: "#BFAF80", // hover states and visited graph nodes
+          highlight: "rgba(191, 175, 128, 0.15)", // internal link bg, highlighted text, highlighted lines of code
+          textHighlight: "#BFAF8088", // markedown highlighted text background
         },
       },
     },
