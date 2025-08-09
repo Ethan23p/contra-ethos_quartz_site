@@ -30,26 +30,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#F0EEE6",
+          lightgray: "#FFFFFF",
+          gray: "#E3DACC",
+          darkgray: "#141413",
+          dark: "#D97757",
+          secondary: "#141413",
+          tertiary: "#1F476E",
+          highlight: "#14141325",
+          textHighlight: "#14141388",
         },
         darkMode: {
-          light: "#1F1E1D", // page background
-          lightgray: "#262624", // borders
-          gray: "#BFBDB8", // graph links, heavier borders
-          darkgray: "#BFBDB8", // body text
-          dark: "#BFAF80", // header text and icons
-          secondary: "#D97059", // link color, current graph node
-          tertiary: "#BFAF80", // hover states and visited graph nodes
-          highlight: "rgba(191, 175, 128, 0.15)", // internal link bg, highlighted text, highlighted lines of code
-          textHighlight: "#BFAF8088", // markedown highlighted text background
+          light: "#262624", // page background red: #fe0707ff
+          lightgray: "#1F1E1D", // borders
+          gray: "#0F0F0E", // graph links, heavier borders
+          darkgray: "#C2C0B6", // body text edit: also icons
+          dark: "#D97059", // header text and icons
+          secondary: "#C2C0B6", // link color, current graph node
+          tertiary: "#276EB3", // hover states and visited graph nodes
+          highlight: "#0f0f0e95", // internal link bg, highlighted text, highlighted lines of code
+          textHighlight: "#C2C0B688", // markdown highlighted text background
         },
       },
     },
