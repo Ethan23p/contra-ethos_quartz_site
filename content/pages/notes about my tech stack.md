@@ -1,0 +1,12 @@
+## for your information
+	- To make this website I'm using a wonderful combination of technologies:
+		- I write the entirety of site content entirely in #Logseq, which operates on a set of #Markdown files, which are read, translated into a static site using #Quartz-4, which is hosted on the internet using #Github's service, "Github Pages".
+- ## note to self
+	- ### technical:
+		- {{embed ((68990632-4d58-40a0-893a-a30387400bb8))}}
+		- {{embed ((6899239c-6add-4cc6-b4ff-b62b6ed7715f))}}
+		- {{embed ((689925f7-50dd-49b5-99bb-c723cba55ad9))}}
+		- {{embed ((6899294e-af97-4cbe-bca9-b633e8edaf11))}}
+	- ### #digital-garden principles to adopt:
+		- You will feel an obligation to link to / explain everything you discuss but part of the *gardening* of this concept is getting the valuable thoughts out *first* then returning later and maintaining what you write.
+		- You will feel an obligation to give an LLM every other sentence you type to better comprehend grammar & spelling; yeah, that's a really good impulse. I bet you'll be doing that for just a while, then you will not even need to anymore.

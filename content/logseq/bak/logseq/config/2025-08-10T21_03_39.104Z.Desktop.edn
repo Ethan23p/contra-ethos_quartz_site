@@ -281,7 +281,7 @@
 
  ;; Configure the threshold for linked references before collapsing.
  ;; Default value: 100
- :ref/linked-references-collapsed-threshold 1
+ :ref/linked-references-collapsed-threshold 50
 
  ;; Graph view configuration.
  ;; Example usage:
@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["index" "notes about my tech stack"]
+ :favorites []
 
  ;; Set flashcards interval.
  ;; Expected value:
