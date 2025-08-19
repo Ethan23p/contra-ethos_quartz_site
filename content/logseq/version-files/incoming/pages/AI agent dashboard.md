@@ -1,0 +1,4 @@
+- personal tool for using agentic AI
+	- especially tasks which a chat interface aren't quite suited for
+	- also for experimenting with new concepts, workflows
+- built with a rigorous focus on software design principles, quality
