@@ -7,10 +7,10 @@ export const sharedPageComponents: SharedLayout = {
   header: [
     Component.Flex({
       components: [
-        { Component: Component.PageTitle() },
+        { Component: Component.PageTitle(), grow: true },
         {
           Component: Component.Search(),
-        grow: true, },
+        },
         { Component: Component.Darkmode() },
         { Component: Component.ReaderMode() },
       ],

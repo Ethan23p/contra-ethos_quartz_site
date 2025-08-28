@@ -1,1 +1,3 @@
+alias:: Quartz,
+
 - A #FOSS for translating plain Markdown files into static sites, specializing in #digital-gardens like my personal site (this site).

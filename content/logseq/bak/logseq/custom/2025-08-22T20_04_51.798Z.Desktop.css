@@ -1,0 +1,10 @@
+#root>div {
+    --ls-primary-background-color: #132226;
+    /* adjust for main area */
+    --ls-secondary-background-color: #1B3036;
+    /* maybe modals, panels, etc. */
+}
+
+body {
+    background-color: #132226;
+}
