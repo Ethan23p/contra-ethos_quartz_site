@@ -12,7 +12,7 @@ export const sharedPageComponents: SharedLayout = {
           Component: Component.Search(),
         },
         { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
+/*         { Component: Component.ReaderMode() }, */
       ],
     }),
   ],
