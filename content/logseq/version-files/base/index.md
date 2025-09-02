@@ -1,4 +1,10 @@
-# Welcome to my digital garden.
-- [[portfolio]]
-- [[about me]]
-- [[blog]]
+# Hi, I'm Ethan Porter, an AI consultant.
+- > I help businesses create AI and automation tools that are simple to use and a pleasure to work with. My background in engineering, UX design, and 3D art helps me blend technical skill with creative thinking to build practical solutions that just make sense.
+- ## Check out my work.
+	- [Portfolio](./portfolio/)
+- ## Feel free to reach out!
+	- Website: [EthanPorter.xyz](https://EthanPorter.xyz)
+	- Email: [contact@EthanPorter.xyz](contact@EthanPorter.xyz)
+	- Phone-number: 480-347-8250
+	- LinkedIn: [/in/ethan23p](https://linkedin.com/in/ethan23p)
+	- GitHub: [github.com/Ethan23p](https://github.com/Ethan23p)

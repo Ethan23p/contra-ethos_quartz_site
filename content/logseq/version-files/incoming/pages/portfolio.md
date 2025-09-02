@@ -1,4 +1,4 @@
-- [[AI agent dashboard]]
+- [[Agent Dashboard]]
 - [[key-ute game]]
 - [[AI wrapper]]
 - [[Agent-Context Script]]

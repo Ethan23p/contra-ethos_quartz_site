@@ -1,7 +1,7 @@
 # Hi, I'm Ethan Porter, an AI consultant.
 - > I help businesses create AI and automation tools that are simple to use and a pleasure to work with. My background in engineering, UX design, and 3D art helps me blend technical skill with creative thinking to build practical solutions that just make sense.
 - ## Check out my work.
-	- [[portfolio]]
+	- [Portfolio](./portfolio/)
 - ## Feel free to reach out!
 	- Website: [EthanPorter.xyz](https://EthanPorter.xyz)
 	- Email: [contact@EthanPorter.xyz](contact@EthanPorter.xyz)

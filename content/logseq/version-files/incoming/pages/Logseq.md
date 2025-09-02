@@ -1,0 +1,1 @@
+- Logseq is a personal knowledge-base software; a digital spiritual-successor of a bullet-journal one plans and organizes the details of their life within.

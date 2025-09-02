@@ -1,0 +1,2 @@
+- [Markdown](https://en.wikipedia.org/wiki/Markdown) is a file format and a widespread standard for writing using a computer in a way that is intuitive and easy to parse for code.
+- I just learned that [[Aaron Swartz]] was a close collaborator with the guy who developed Markdown. How often Aaron shows up in researching technology is tragic, and sweet.
