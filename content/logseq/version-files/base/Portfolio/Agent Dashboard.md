@@ -1,4 +1,5 @@
 # Agent Dashboard
+See also: [[Model-Context Pipeline]]
 - ## Overview
 	- A custom-built tool I've engineered for rapidly experimenting with agentic workflows.
 	- ![hero_AgentDashboard](../assets/vlcsnap-2025-08-16-13h10m04s708_1756406269628_0.png)

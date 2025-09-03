@@ -1,4 +1,5 @@
 # Model-Context Pipeline
+See also: [[Agent Dashboard]]
 - ## Overview
 	- A custom pipeline that builds a 'source of truth' for AI, granting the reliability and accountability required for professional work.
 	- ![modelContext_fileExpl_output_2.jpg](../assets/modelContext_fileExpl_output_2_1756755554044_0.jpg)

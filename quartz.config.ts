@@ -36,7 +36,7 @@ const config: QuartzConfig = {
           darkgray: "#141413",
           dark: "#D97757",
           secondary: "#141413",
-          tertiary: "#1F476E",
+          tertiary: "#276EB3",
           highlight: "#14141325",
           textHighlight: "#14141388",
         },
@@ -47,7 +47,7 @@ const config: QuartzConfig = {
           darkgray: "#C2C0B6", // body text edit: also icons
           dark: "#D97059", // header text and icons
           secondary: "#C2C0B6", // link color, current graph node
-          tertiary: "#276EB3", // hover states and visited graph nodes
+          tertiary: "#F0B60F", // hover states and visited graph nodes
           highlight: "#0f0f0e95", // internal link bg, highlighted text, highlighted lines of code
           textHighlight: "#C2C0B688", // markdown highlighted text background
         },
